@@ -538,14 +538,14 @@ Runde 3: Tauschen Sie die Rollen. Beginnen Sie Ihren Dialog erneut. Emma (3) tri
 
 #### Movie time!📽️ (Übung)
 
-****************
+------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-****************
+------
 
 
-****************
+------
 
 >__Let´s discuss!__
 >![image](images/working.png)<!--
@@ -558,7 +558,7 @@ onclick="alert('working');"
 > Welche Themen hat das Video gezeigt, die Sie in die Lehre einbinden könnten?
 
 
-****************
+------
 
 
 # Kurz zusammengefasst
