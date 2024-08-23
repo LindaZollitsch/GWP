@@ -12,44 +12,29 @@ comment:  This document provides a brief introduction to good research practice 
 
 -->
 
-# Train-the-Lecturer Forschungsdatenmanagement
+# Gute wissenschaftliche Praxis in der Lehre
+
+Herzlich Willkommen zum Workshop **Gute wissenschaftliche Praxis und Forschungsdatenmanagement in der Lehre**.
+
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/TtL-FDM/main/TtL-FDM_Workshop.md#1)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)]((https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/GWP/main/2023_GWP-Lehre_de_LZ_v1.md#1))
 >
 > If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
 > This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
 
-<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
 
-
-# Gute wissenschaftliche Praxis in der Lehre
-
-Herzlich Willkommen zum Workshop **Gute wissenschaftliche Praxis und Forschungsdatenmanagement in der Lehre**.
+-----
 
 Dieser Workshop beschäftigt sich mit den Richtlinien und Codes, die die Grundlage guter wissenschftlicher Praxis bilden. Zudem werden immer wieder didaktische Möglichkeiten aufgezeigt, das Thema in die eigene Lehre zu integrieren.
 
 Die verwendeten Illustrationen wurden, wo nicht anders angegeben, von Cleo Michelsen erstellt.
 
-Der Lernbaustein wurde für den Einsatz in der Lehre entwickelt.
-
-
 -----
-
->**Lizenzhinweis**
->
-><div style="float:left; width:50px;">
-  <img src="/fdm-module/Gute_wissenschaftliche_Praxis/images/ccby.png">
-    <sub style="text-align: right;"></sub>
-</div>
->Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
-
------
-
 
 ## Kennenlernen
 
