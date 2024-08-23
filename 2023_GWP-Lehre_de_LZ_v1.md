@@ -1,20 +1,17 @@
 <!--
 
 author:   LZ, BP
-
 email:    zollitsch@ub.uni-kiel.de
+version:  0.0.1
+language: de
+narrator: Deutsch Female
 
 icon:  ./images/Logo_cau_norm_de_lilagrey_rgb_0720_2022.png
-
-version:  0.0.1
-
-language: de
-
-narrator: Deutsch Female
 
 comment:  Gute wissenschaftliche Praxis, Richtlinien und Codes
 
 tags: Forschungsdatenmanagement, Gute wissenschaftliche Praxis
+
 -->
 
 # Gute wissenschaftliche Praxis in der Lehre
