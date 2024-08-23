@@ -412,9 +412,12 @@ In der nachfolgenden Tabelle ist exemplarisch am Europäischen Verhaltenskodex f
 {{0-1}}
 ****************
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NR164H5PDio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=NR164H5PDio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NR164H5PDio?si=Uby05N131cxVk11g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
 
 ****************
 
