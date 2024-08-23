@@ -103,8 +103,6 @@ Das Lernmodul soll wichtige Aspekte näher bringen, die im Umgang mit wissenscha
 
 ## Limitationen 🚧
 
-![Limitations](/images/limitations.png) <!-- width="250px" align="right" -->
-
 Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über gute wissenschaftliche Praxis zu wissen gibt, behandeln.
 
 Wir werden uns keine disziplinspezifischen Inhalte anschauen, diese dürfen von Ihnen aber sehr gerne in die Diskussionen mit eingebracht werden.
@@ -171,6 +169,7 @@ Sorgt für:
 > wissenschaftliche Selbstverpflichtung
 
 Respektvoller Umgang mit: 
+
  * Studienteilnehmer:innen
  * Tieren
  * Kulturgütern und Umwelt
@@ -188,6 +187,7 @@ Was hat gute wissenschaftliche Praxis mit der Lehre zu tun?
 ********************************************************************************
 
 * Ungang mit Forschungsdaten und wissenschaftlichen Daten lehren und lernen
+  
     * Was darf ich mit Daten (Texten, Bildern, Videos, Ehebungsdaten...) machen?
     * Woran erkenne ich, ob es wissenschaftlich fundierte Daten sind?
     * Wie kann ich eigene Arbeiten transparent machen und mit anderen teilen?
@@ -236,13 +236,13 @@ Es gibt verschiedene disziplinübergreifende Codes, die im europäischen Raum ei
 
 Die bekanntesten Richtlinien sind:
 
-![ECoC](/images/llogo_ecoc_2023.png)<!--  width="140px" align="right"
+![ECoC](images/logo_ecoc_2023.png)<!--  width="140px" align="right"
 -->
 
 >* ALLEA: [European Code of Conduct for Research Integrity (2023)](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
 
 
-![DFG](/images/logo_dfg_2019.png)<!--  width="140px" align="right"
+![DFG](images/logo_dfg_2019.png)<!--  width="140px" align="right"
 -->
 
 >* DFG: [Leitlinien zur Sicherung guter wissenschaftlicher Praxis (2022)](https://zenodo.org/record/6472827#.ZC5r_HvP25c)
@@ -263,7 +263,7 @@ Der **Europäische Verhaltenskodex für Integrität in der Forschung** ist unter
 
 <div class="pull-right">
 
-![ECoC](/images/logo_ecoc_2023.png)<!--  width="220px" align="right"
+![ECoC](images/logo_ecoc_2023.png)<!--  width="220px" align="right"
 -->
 
 </div>
@@ -311,7 +311,7 @@ Neben konkreten Leitlinien zu diesen acht Bereichen finden sich im Europäischen
 
 ### Die Leitlinien der DFG
 
-![DFG](/images/logo_dfg_2019.png)<!--  width="160px" align="right"
+![DFG](images/logo_dfg_2019.png)<!--  width="160px" align="right"
 -->
 
 Die DFG beschreibt in ihren **Leitlinien zur Sicherung guter wissenschaftlicher Praxis** insgesamt 19 Leitlinien, die untergliedert sind in drei Bereiche:
@@ -376,7 +376,7 @@ Konnten Sie eine oder mehrere Richtlinien finden? Sichern Sie sich den Link oder
 
 -----
 
-![Hinweis](/images/img_tipp_2022_CM.jpg)<!--  width="160px"
+![Hinweis](images/img_tipp_2022_CM.jpg)<!--  width="160px"
 -->
 Hinweis: Nicht jede Fachdisziplin hat zwingend eine eigene Richtline oder einen eigenen Code. Manche orientieren sich an den Leitlinen der DFG, wiederum andere haben sehr umfassende eigene Codes. 
 
