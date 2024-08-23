@@ -1,18 +1,31 @@
 <!--
 
-author:   LZ, BP
-email:    zollitsch@ub.uni-kiel.de
-version:  0.0.1
+author:   Linda Zollitsch, Britta Petersen
+email:    zollitsch@ub..uni-kiel.de
+version:  0.1.0
 language: de
-narrator: Deutsch Female
+narrator: DE Deutsch Female
 
-icon:  ./images/Logo_cau_norm_de_lilagrey_rgb_0720_2022.png
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-comment:  Gute wissenschaftliche Praxis, Richtlinien und Codes
-
-tags: Forschungsdatenmanagement, Gute wissenschaftliche Praxis
+comment:  This document provides a brief introduction to good research practice for lecturers As well as some didactic and methodologies for teaching grp to students.
 
 -->
+
+# Train-the-Lecturer Forschungsdatenmanagement
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/TtL-FDM/main/TtL-FDM_Workshop.md#1)
+>
+> If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
+>
+> This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
+
+<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
+
+<div style="page-break-after: always;"></div>
+
 
 # Gute wissenschaftliche Praxis in der Lehre
 
