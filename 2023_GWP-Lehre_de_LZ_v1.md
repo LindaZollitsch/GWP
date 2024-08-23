@@ -19,7 +19,7 @@ Herzlich Willkommen zum Workshop **Gute wissenschaftliche Praxis und Forschungsd
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)]((https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/GWP/main/2023_GWP-Lehre_de_LZ_v1.md#1))
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)]((https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/GWP/main/2023_GWP-Lehre_de_LZ_v1.md#1)
 >
 > If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
@@ -103,7 +103,7 @@ Das Lernmodul soll wichtige Aspekte näher bringen, die im Umgang mit wissenscha
 
 ## Limitationen 🚧
 
-![Goals today](C:/GitRepos/meeting-22-6-30/images/limitations.png) <!-- width="250px" align="right" -->
+![Limitations](/images/limitations.png) <!-- width="250px" align="right" -->
 
 Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über gute wissenschaftliche Praxis zu wissen gibt, behandeln.
 
@@ -236,13 +236,13 @@ Es gibt verschiedene disziplinübergreifende Codes, die im europäischen Raum ei
 
 Die bekanntesten Richtlinien sind:
 
-![ECoC](/fdm-module/Gute_wissenschaftliche_Praxis/images/llogo_ecoc_2023.png)<!--  width="140px" align="right"
+![ECoC](/images/llogo_ecoc_2023.png)<!--  width="140px" align="right"
 -->
 
 >* ALLEA: [European Code of Conduct for Research Integrity (2023)](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
 
 
-![DFG](/fdm-module/Gute_wissenschaftliche_Praxis/images/logo_dfg_2019.png)<!--  width="140px" align="right"
+![DFG](/images/logo_dfg_2019.png)<!--  width="140px" align="right"
 -->
 
 >* DFG: [Leitlinien zur Sicherung guter wissenschaftlicher Praxis (2022)](https://zenodo.org/record/6472827#.ZC5r_HvP25c)
@@ -263,7 +263,7 @@ Der **Europäische Verhaltenskodex für Integrität in der Forschung** ist unter
 
 <div class="pull-right">
 
-![ECoC](/fdm-module/Gute_wissenschaftliche_Praxis/images/logo_ecoc_2023.png)<!--  width="220px" align="right"
+![ECoC](/images/logo_ecoc_2023.png)<!--  width="220px" align="right"
 -->
 
 </div>
@@ -311,7 +311,7 @@ Neben konkreten Leitlinien zu diesen acht Bereichen finden sich im Europäischen
 
 ### Die Leitlinien der DFG
 
-![DFG](/fdm-module/Gute_wissenschaftliche_Praxis/images/logo_dfg_2019.png)<!--  width="160px" align="right"
+![DFG](/images/logo_dfg_2019.png)<!--  width="160px" align="right"
 -->
 
 Die DFG beschreibt in ihren **Leitlinien zur Sicherung guter wissenschaftlicher Praxis** insgesamt 19 Leitlinien, die untergliedert sind in drei Bereiche:
@@ -376,7 +376,7 @@ Konnten Sie eine oder mehrere Richtlinien finden? Sichern Sie sich den Link oder
 
 -----
 
-![Hinweis](/fdm-module/Gute_wissenschaftliche_Praxis/images/img_tipp_2022_CM.jpg)<!--  width="160px"
+![Hinweis](/images/img_tipp_2022_CM.jpg)<!--  width="160px"
 -->
 Hinweis: Nicht jede Fachdisziplin hat zwingend eine eigene Richtline oder einen eigenen Code. Manche orientieren sich an den Leitlinen der DFG, wiederum andere haben sehr umfassende eigene Codes. 
 
@@ -389,12 +389,12 @@ In der nachfolgenden Tabelle ist exemplarisch am Europäischen Verhaltenskodex f
 
 | Forschungsdatenzyklus   | Europäischer Verhaltenskodex   | DFG Leitlinien   |
 | :--------- | :--------- | :--------- |
-| ![Planung](/fdm-module/Gute_wissenschaftliche_Praxis/images/img_fdm-zyklus_planung_2021-11-22_CM.jpg)     | Forschende berücksichtigen bei der Entwicklung von Forschugnsideen den letzten Stand der Forschung.     | Wissenschaftlerinnen und Wissenschaftler berücksichtigen bei der Planung eines Vorhabens den aktuellen Forschungsstand umfassend und erkennen ihn an.     | 
-| ![Erhebung](/fdm-module/Gute_wissenschaftliche_Praxis/images/img_fdm-zyklus_erhebung_2021-11-22_CM.jpg)     | Forschende behandeln Forschungsgegenstände [...] mit Respekt und Sorgfalt und in Einklang mit rechtlichen und ethischen Vorschriften.     | In Hinblick auf Forschungsvorhaben sollten eine gründliche Abschätzung der Forschungsfolgen und die Beurteilung der jeweiligen ethischen Aspekte erfolgen.     | 
-| ![Analyse](/fdm-module/Gute_wissenschaftliche_Praxis/images/img_fdm-zyklus_analyse_2021-11-22_CM.jpg)     | Forschende [...] analysieren und dokumentieren Forschungsarbeiten auf sorgfältige und wohlbedachte Weise.     | Zur Beantwortung von Forschungsfragen wenden Wissenschaftlerinnen und Wissenschaftler wissenschaftlich fundierte und nachvollziehbare Mehtoden an.     | 
-| ![Archivierung](/fdm-module/Gute_wissenschaftliche_Praxis/images/img_fdm-zyklus_archivierung_2021-11-22_CM.jpg)     | Forschende[...] gewährleisten die angemessene Verwaltung und Kuration aller, auch unveröffentlichter Daten und Forschungsmaterialien durch sichere Aufbewahrung für einen angemessenen Zeitraum.     | Wissenschaftlerinnen und Wissenschaftler sichern öffentlich zugänglich gemachte Forschungsdaten beziehungsweise Forschungsergebnisse sowie die ihnnen zugrunde liegenden, zentralen Materialien [...] in adäquater Weise und bewahren sie für einen angemessenen Zeitraum auf.     | 
-| ![Veröffentlichung](/fdm-module/Gute_wissenschaftliche_Praxis/images/img_fdm-zyklus_veroeffentlichung_2021-11-22_CM.jpg)     | Forschende veröffentlichen Ergebnisse und Interpretationen der Forschungsarbeiten auf offene, ehrliche, transparente und korrekte Weise und beachten die Vertrauchlichkeit von Daten oder Ergebnissen, wenn dies berechtigterweise erforderlich ist.     | Wissenschaftlerinnen und Wissenchaftler entscheiden in eigener Verantwortung - unter Berücksichtigung der Gepflogenheiten des betroffenen Fachgebiets -, ob, wie und wo sie ihre Ergebnisse öffentlich zugänglich machen.     | 
-| ![Nachnutzung](/fdm-module/Gute_wissenschaftliche_Praxis/images/img_fdm-zyklus_nachnutzung_2021-11-22_CM.jpg)     | Forschende [...] legen offen dar, wie auf ihre Daten und Forschungsmaterialienzugegriffen werden kann und wie diese genutzt werden können.     | Wissenschaftlerinnen und Wissenschaftler dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können.     | 
+| ![Planung](/images/img_fdm-zyklus_planung_2021-11-22_CM.jpg)     | Forschende berücksichtigen bei der Entwicklung von Forschugnsideen den letzten Stand der Forschung.     | Wissenschaftlerinnen und Wissenschaftler berücksichtigen bei der Planung eines Vorhabens den aktuellen Forschungsstand umfassend und erkennen ihn an.     | 
+| ![Erhebung](/images/img_fdm-zyklus_erhebung_2021-11-22_CM.jpg)     | Forschende behandeln Forschungsgegenstände [...] mit Respekt und Sorgfalt und in Einklang mit rechtlichen und ethischen Vorschriften.     | In Hinblick auf Forschungsvorhaben sollten eine gründliche Abschätzung der Forschungsfolgen und die Beurteilung der jeweiligen ethischen Aspekte erfolgen.     | 
+| ![Analyse](/images/img_fdm-zyklus_analyse_2021-11-22_CM.jpg)     | Forschende [...] analysieren und dokumentieren Forschungsarbeiten auf sorgfältige und wohlbedachte Weise.     | Zur Beantwortung von Forschungsfragen wenden Wissenschaftlerinnen und Wissenschaftler wissenschaftlich fundierte und nachvollziehbare Mehtoden an.     | 
+| ![Archivierung](/images/img_fdm-zyklus_archivierung_2021-11-22_CM.jpg)     | Forschende[...] gewährleisten die angemessene Verwaltung und Kuration aller, auch unveröffentlichter Daten und Forschungsmaterialien durch sichere Aufbewahrung für einen angemessenen Zeitraum.     | Wissenschaftlerinnen und Wissenschaftler sichern öffentlich zugänglich gemachte Forschungsdaten beziehungsweise Forschungsergebnisse sowie die ihnnen zugrunde liegenden, zentralen Materialien [...] in adäquater Weise und bewahren sie für einen angemessenen Zeitraum auf.     | 
+| ![Veröffentlichung](/images/img_fdm-zyklus_veroeffentlichung_2021-11-22_CM.jpg)     | Forschende veröffentlichen Ergebnisse und Interpretationen der Forschungsarbeiten auf offene, ehrliche, transparente und korrekte Weise und beachten die Vertrauchlichkeit von Daten oder Ergebnissen, wenn dies berechtigterweise erforderlich ist.     | Wissenschaftlerinnen und Wissenchaftler entscheiden in eigener Verantwortung - unter Berücksichtigung der Gepflogenheiten des betroffenen Fachgebiets -, ob, wie und wo sie ihre Ergebnisse öffentlich zugänglich machen.     | 
+| ![Nachnutzung](/images/img_fdm-zyklus_nachnutzung_2021-11-22_CM.jpg)     | Forschende [...] legen offen dar, wie auf ihre Daten und Forschungsmaterialienzugegriffen werden kann und wie diese genutzt werden können.     | Wissenschaftlerinnen und Wissenschaftler dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können.     | 
 
 -----
 
@@ -473,9 +473,9 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders wicht
 
 Die folgenden Dokumente / Links enthalten Materialien, die für die Lehre genutzt werden können:
 
-* Der Forschungsprozess in 10 Schritten: [Dokument](file:///C:/Users/UBK/Downloads/Postcard%20-%20Research%20Method_GERMAN_CS6_JPB.pdf) (https://www.path2integrity.eu/campaign-materials)
+* Der Forschungsprozess in 10 Schritten: [Dokument](/Postcard%20-%20Research%20Method_GERMAN_CS6_JPB.pdf) (https://www.path2integrity.eu/campaign-materials)
 
-* 10 Schritte zum Verfassen einer literaturgestützen wissenschaftlichen Arbeit: [Dokument](file:///C:/Users/UBK/Downloads/Postcard%20-%2010%20Steps_GERMAN_CS6_JPB_final.pdf)
+* 10 Schritte zum Verfassen einer literaturgestützen wissenschaftlichen Arbeit: [Dokument](/Postcard%20-%2010%20Steps_GERMAN_CS6_JPB_final.pdf)
 
 * https://ombudsman-fuer-die-wissenschaft.de/2895/lehrmaterialien-zur-gwp/
 
