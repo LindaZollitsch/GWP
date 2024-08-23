@@ -189,7 +189,9 @@ Was hat gute wissenschaftliche Praxis mit der Lehre zu tun?
 * Ungang mit Forschungsdaten und wissenschaftlichen Daten lehren und lernen
   
     * Was darf ich mit Daten (Texten, Bildern, Videos, Ehebungsdaten...) machen?
+      
     * Woran erkenne ich, ob es wissenschaftlich fundierte Daten sind?
+      
     * Wie kann ich eigene Arbeiten transparent machen und mit anderen teilen?
 
 * Vorteil für Lehrende: Studierende verhalten sich nach den Regeln guter wissenschaftlicher Praxis
@@ -536,17 +538,13 @@ Runde 3: Tauschen Sie die Rollen. Beginnen Sie Ihren Dialog erneut. Emma (3) tri
 
 #### Movie time!📽️ (Übung)
 
-{{0-1}}
 ****************
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
-
 ****************
 
 
-{{1}}
 ****************
 
 >__Let´s discuss!__
