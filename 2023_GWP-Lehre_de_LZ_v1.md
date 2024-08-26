@@ -87,6 +87,8 @@ Die verwendeten Illustrationen wurden, wo nicht anders angegeben, von Cleo Miche
 
 ## Ziele des Lernmoduls 🎯
 
+-----
+
 Das Lernmodul soll wichtige Aspekte näher bringen, die im Umgang mit wissenschaftlichen Daten zu beachten sind.
 
 > Nach Bearbeitung dieses Lernmoduls sind Sie in der Lage...
@@ -103,15 +105,19 @@ Das Lernmodul soll wichtige Aspekte näher bringen, die im Umgang mit wissenscha
 
 ## Limitationen 🚧
 
+------
+
 Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über gute wissenschaftliche Praxis zu wissen gibt, behandeln.
 
 Wir werden uns keine disziplinspezifischen Inhalte anschauen, diese dürfen von Ihnen aber sehr gerne in die Diskussionen mit eingebracht werden.
 
 Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/vertiefende Workshopthemen auf.
 
----
+-----
 
 ## Einstieg
+
+-----
 
 Zum Warm-up eine Einstiegsfrage zum Thema gute wissenschaftliche Praxis.
 
@@ -186,13 +192,13 @@ Was hat gute wissenschaftliche Praxis mit der Lehre zu tun?
 {{4}}
 ********************************************************************************
 
-* Ungang mit Forschungsdaten und wissenschaftlichen Daten lehren und lernen
+* Umgang mit Forschungsdaten und wissenschaftlichen Daten lehren und lernen
   
     * Was darf ich mit Daten (Texten, Bildern, Videos, Ehebungsdaten...) machen?
-      
-    * Woran erkenne ich, ob es wissenschaftlich fundierte Daten sind?
-      
-    * Wie kann ich eigene Arbeiten transparent machen und mit anderen teilen?
+
+  * Woran erkenne ich, ob es wissenschaftlich fundierte Daten sind?
+   
+  * Wie kann ich eigene Arbeiten transparent machen und mit anderen teilen?
 
 * Vorteil für Lehrende: Studierende verhalten sich nach den Regeln guter wissenschaftlicher Praxis
 
@@ -206,6 +212,8 @@ Was hat gute wissenschaftliche Praxis mit der Lehre zu tun?
 
 Vermutlich niemand möchte sich in der Lage befinden, auf Daten oder Texte anderer Personen zu verweisen, nur um später festzustellen, dass diese gefälscht oder plagiiert wurden. Um sicherzustellen, dass Forschungsergebnisse zuverlässig sind, ist es von entscheidender Bedeutung, die Grundsätze der guten wissenschaftlichen Praxis zu befolgen. Das Einhalten dieser Regeln verbessert nicht nur die Qualität unserer eigenen Arbeit, sondern schützt uns auch vor unangenehmen Situationen, in denen wir uns auf fehlerhafte oder unethische Inhalte anderer beziehen könnten. Gute wissenschaftliche Praxis kann somit auch als Maßstab für die Bewertung und Nutzung fremder Daten und Arbeiten dienen.
 
+-----
+
 {{1-2}}
 ********************************************************************************
 Richtlinien können für verschiedene Zwecke genutzt werden.
@@ -218,7 +226,7 @@ Richtlinien können für verschiedene Zwecke genutzt werden.
 >
 >* Sie helfen dabei, Forschungsprojekte anderer beurteilen zu können
 >
->* Sie stellen den Rahmen da, innerhalb dessen Wissenschaft betrieben werden sollte
+>* Sie stellen den Rahmen dar, innerhalb dessen Wissenschaft betrieben werden sollte
 >
 >* Sie geben aber auch die Grenzen vor, ab wann etwas fragwürdige Forschung oder Fehlverhalten ist.
 
@@ -337,6 +345,7 @@ Rechereauftrag an die Gruppe: Suchen Sie die Richtlinien der CAU heraus.
 
 Auch die CAU hat eigene Richtlinien zur Sicherung guter wissenschaftlicher Praxis, die sich an den Leitlinien der DFG orientieren.
 
+-----
 
 {{1-2}}
 ********************************************************************************
@@ -358,6 +367,8 @@ Diskussion in Kleingruppen
 ## Integration von Richtlinien in die Lehre
 
 Wie können Sie entsprechende Richtlinien in Ihre Lehre einbinden?
+
+-----
 
 {{1}}
 ********************************************************************************
@@ -388,6 +399,7 @@ Hinweis: Nicht jede Fachdisziplin hat zwingend eine eigene Richtline oder einen 
 
 In der nachfolgenden Tabelle ist exemplarisch am Europäischen Verhaltenskodex für Integrität in der Forschung sowie den Leitlinien zur Sicherung guter wissenschaftlier Praxis dargestellt, in welchen Leitlinien sich Hinweise zu den einzelnen Abschnitten des Forschungsdatenzyklus finden lassen.
 
+-----
 
 | Forschungsdatenzyklus   | Europäischer Verhaltenskodex   | DFG Leitlinien   |
 | :--------- | :--------- | :--------- |
@@ -556,7 +568,8 @@ onclick="alert('working');"
 >Schauen Sie das Video und denken Sie dabei an Forschung und Lehre gleichermaßen. Kommen Ihnen Situationen des Videos bekannt vor? 
 
 > Welche Themen hat das Video gezeigt, die Sie in die Lehre einbinden könnten?
-
+>
+> Sammeln Sie die Inhaltsbereiche, die im Video thematisiert wurden.
 
 ------
 
