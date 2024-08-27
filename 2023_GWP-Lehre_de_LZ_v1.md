@@ -8,13 +8,15 @@ narrator: DE Deutsch Female
 
 icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-comment:  This document provides a brief introduction to good research practice for lecturers As well as some didactic and methodologies for teaching grp to students.
+comment:  This document provides a brief introduction to good research practice for lecturers as well as some didactic and methodologies for teaching grp to students.
 
 -->
 
 # Gute wissenschaftliche Praxis in der Lehre
 
-Herzlich Willkommen zum Workshop **Gute wissenschaftliche Praxis und Forschungsdatenmanagement in der Lehre**.
+Herzlich Willkommen zum Workshop **Gute wissenschaftliche Praxis in der Lehre**.
+
+-----
 
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
@@ -24,9 +26,6 @@ Herzlich Willkommen zum Workshop **Gute wissenschaftliche Praxis und Forschungsd
 > If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
 > This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
-
-
-<div style="page-break-after: always;"></div>
 
 -----
 
@@ -38,7 +37,7 @@ Die verwendeten Illustrationen wurden, wo nicht anders angegeben, von Cleo Miche
 
 ## Kennenlernen
 
-> **Lassen Sie uns zum Kennenlernen ein kleines Spiel spielen:**
+> **Lassen Sie uns gegenseitig ein bisschen kennenlernen:**
 >
 > Verdecken Sie Ihre Kamera mit einem Post-it oder einem Finger.
 >
@@ -154,7 +153,7 @@ Waren Sie in der Auswahl einer Praktik und in der Begründung sicher? Sehen Sie 
 
 {{1-3}}
 ********************************************************************************
-Was ist gute wissenschaftliche Praxis und warum?
+Was ist gute wissenschaftliche Praxis und warum gibt es sie?
 
 ********************************************************************************
 
@@ -242,7 +241,7 @@ Mit welchen Richtlinien arbeiten Sie in der Lehre?
 
 {{3}}
 ********************************************************************************
-Es gibt verschiedene disziplinübergreifende Codes, die im europäischen Raum eine gewisse Verbindlichkeit haben und häufig als Grundlage für beispielsweise Forschungsanträge gelten und genutzt werden.
+Es gibt verschiedene disziplinübergreifende Codes, die im europäischen Raum eine gewisse Verbindlichkeit haben und häufig als Grundlage beispielsweise von Forschungsanträgen gelten und genutzt werden.
 
 Die bekanntesten Richtlinien sind:
 
@@ -358,7 +357,7 @@ Auch die CAU hat eigene Richtlinien zur Sicherung guter wissenschaftlicher Praxi
 
 Diskussion in Kleingruppen
 
-* welche Inhalte der Richtlinie können Sie für die Lehre einsetzen?
+* welche Inhalte der CAU-Richtlinie können Sie für die Lehre einsetzen?
 
 * Welche Inhalte setzen Sie vielleicht bereits um und wie tun Sie das?
 
@@ -366,7 +365,7 @@ Diskussion in Kleingruppen
 
 ## Integration von Richtlinien in die Lehre
 
-Wie können Sie entsprechende Richtlinien in Ihre Lehre einbinden?
+Wie könnten Sie entsprechende Richtlinien in Ihre Lehre einbinden?
 
 -----
 
@@ -381,7 +380,7 @@ Wie können Sie entsprechende Richtlinien in Ihre Lehre einbinden?
 
 ********************************************************************************
 
-#### Aufgabe für Studierende (ca. 15 Minuten)
+#### Rechercheübung (ca. 15 Minuten)
 
 > Recherchieren Sie, ob es von Ihrer Fachdisziplin, Ihrer Institution oder Universität eine Richtlinie oder einen Code zu guter wissenschaftlicher Praxis gibt.
 
@@ -412,7 +411,7 @@ In der nachfolgenden Tabelle ist exemplarisch am Europäischen Verhaltenskodex f
 
 -----
 
-#### Vergleich von Richtlinien (Übung)
+#### Vergleich von Richtlinien (Übung, ca. 20 Min.)
 
 > Schauen Sie sich die Leitlinien Ihres Fachbereichs / Ihrer Institution an und prüfen Sie, ob Sie vergleichbare Abschnitte zu Planung, Erhebung, Analyse, Archivierung, Veröffentlichung und Nachnutzung finden, wie im Europäischen Verhaltenskodex für Integrität in der Forschung und den Leitlinien der DFG.
 >
@@ -445,6 +444,8 @@ Welche weiteren Gründe für gute wissenschaftliche Praxis sind Ihnen bekannt?
 
 ## Mögliche Themen für die Lehre
 
+-----
+
 Themen, die in der Lehre häufig Relevanz haben:
 
 * Anwenden von Regeln zur guten wissenschaftlichen Praxis
@@ -456,9 +457,11 @@ Themen, die in der Lehre häufig Relevanz haben:
 * Nachnutzung von Daten - Lizenzen
     (Worauf muss bei der Verwendung von Daten geachtet werden, welche Lizenzen gibt es, was bedeuten sie?)
 
-
+-----
 
 ## Zeitlicher Umfang
+
+-----
 
 > **Zeit ist immer ein limitierender Faktor! **
 >
@@ -466,6 +469,8 @@ Themen, die in der Lehre häufig Relevanz haben:
 >
 > - Prioritäten setzen
 > - das Wesentliche aus den zu vermittelnden Inhalten herausfiltern.
+
+-----
 
 Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders wichtige und weniger wichtige Inhalte zu erhalten.
 ---
@@ -487,6 +492,7 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders wicht
 
 ### Beispiele zur Anwendung von GWP
 
+-----
 
 Die folgenden Dokumente / Links enthalten Materialien, die für die Lehre genutzt werden können:
 
@@ -502,8 +508,7 @@ Die folgenden Dokumente / Links enthalten Materialien, die für die Lehre genutz
 
 -----
 
-
-#### Was bedeutet Forschung für die Gesellschaft? (Übung)
+#### Was bedeutet Forschung für die Gesellschaft? (Übung, ca. 20 Min.)
 
 „Nein“, rief Prof. Weis, „das kann doch nicht wahr sein!“ Sie liest in einem Zeitungsartikel, dass am Tag zuvor drei Feuerwehrleute bei einem Sturm schwer verlezt worden seien. Der Leiter der Feuerwehr gab an, dass zudem zwei weitere leicht verletzt worden seien, weil sie die Rückzugssignale übersehen hätten, die nach bedeutenden Studienergebnissen im vergangenen Jahr in ihren Trainings eingeführt worden waren. Prof. Weis konnte das nicht mehr ignorieren. Die Vergangenheit holte sie nun ein. Sie hatte in der Studie Daten über Reaktionszeiten in Stresssituationen gefälscht.
 
@@ -524,7 +529,7 @@ Wie kann von Seiten der Gesellschaft dafür argumentiert werden, dass Forschung 
 ****************
 
 
-#### Gute wissenschaftliche Praxis in der Zusammenarbeit (Übung)
+#### Gute wissenschaftliche Praxis in der Zusammenarbeit (Übung, ca. 45 Min.)
 
 **Machen Sie ein rotierendes Rollenspiel:**
 
@@ -546,9 +551,9 @@ implizite und explizite Kodizes und Vorschriften für kollaborative Gruppenarbei
 
 Runde 3: Tauschen Sie die Rollen. Beginnen Sie Ihren Dialog erneut. Emma (3) tritt zuletzt hinzu und verwendet die Worte „offen“, „transparent“, „logisch“ und „vernünftig“.
 
+-----
 
-
-#### Movie time!📽️ (Übung)
+#### Movie time!📽️ (Übung, ca. 30 Min.)
 
 ------
 
@@ -596,6 +601,8 @@ onclick="alert('working');"
 
 # Wünsche und Anregungen
 
+-------
+
 Welche Themen und / oder Inhalte sind für Sie relevant und wichtig?
 
 Worüber möchten Sie gerne mehr erfahren?
@@ -607,6 +614,7 @@ Evaluation der wissenschaftlichen Weiterbildung: https://studfeedback.uni-kiel.d
 
 # Quellen
 
+------
 
 Richtlinien und Codes:
 
