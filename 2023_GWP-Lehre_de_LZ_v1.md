@@ -114,6 +114,74 @@ Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/verti
 
 -----
 
+## Mögliche Themen für die Lehre (Beispiele)
+
+-----
+
+Themen, die in der Lehre häufig Relevanz haben:
+
+* Anwenden von Regeln zur guten wissenschaftlichen Praxis
+    (Welche Regeln gibt es, woran müssen sich Studierende halten?)
+
+* Zitation in Seminar- / Abschlussarbeiten
+    (Welche Regeln gibt es, woran müssen sich Studierende halten?)
+
+* Nachnutzung von Daten - Lizenzen
+    (Worauf muss bei der Verwendung von Daten geachtet werden, welche Lizenzen gibt es, was bedeuten sie?)
+
+-----
+
+## Formate und Inhalt
+
+-----
+
+> Die Form der Lehrveranstaltung ist mit entscheidend, welche Inhalte integriert werden können.
+>
+> * Inhalt sollte zum Format passen (wissenschaftliches Schreiben üben eher in Seminaren / Workshops)
+
+-----
+
+Die Art der Integration, also das wie ist ebenfalls mit dem Format verknüpft
+
+* soll GWP über das ganze Semester hinweg integriert werden
+* soll eine einzelne Sitzung dafür herangezogen werden
+
+Je nach dem, ergeben sich auch hier unterschiedliche Vorgehensweisen.
+
+-----
+
+## Zeitlicher Umfang
+
+-----
+
+> **Zeit ist immer ein limitierender Faktor! **
+>
+> Wir müssen entscheiden, was wirklich nötig ist, um Lernziele in einer bestimmten Zeit zu erreichen, d.h. wir müssen
+>
+> - Prioritäten setzen
+> - das Wesentliche aus den zu vermittelnden Inhalten herausfiltern.
+
+-----
+
+Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders wichtige und weniger wichtige Inhalte zu erhalten.
+---
+
+<!-- markdownlint-capture -->
+
+<!-- markdownlint-disable MD033 -->
+
+<!-- style="width: 100%;background-color:lightblue;"-->
+> | muss | sollte | könnte |
+> | ------------------------------ | -------- | -------- |
+> | Absolut notwendig, um <br> das Thema zu verstehen. | Es wäre sinnvoll <br>, diese Aspekte anzusprechen. | Wenn genügend Zeit zur Verfügung steht, wäre es schön, diese Aspekte zu behandeln. |
+> | ... | ... | ... |
+
+<!-- markdownlint-restore -->
+
+<div style="page-break-after: always;"></div>
+
+-----
+
 ## Einstieg
 
 -----
@@ -425,12 +493,13 @@ In der nachfolgenden Tabelle ist exemplarisch am Europäischen Verhaltenskodex f
 {{0-1}}
 ****************
 
-https://www.youtube.com/watch?v=NR164H5PDio
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NR164H5PDio?si=Uby05N131cxVk11g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
+https://www.youtube.com/watch?v=NR164H5PDio (Path2Integrity, Alexander Gerber)
 
 ****************
 
@@ -441,53 +510,6 @@ https://www.youtube.com/watch?v=NR164H5PDio
 Welche weiteren Gründe für gute wissenschaftliche Praxis sind Ihnen bekannt?
 
 ****************
-
-## Mögliche Themen für die Lehre
-
------
-
-Themen, die in der Lehre häufig Relevanz haben:
-
-* Anwenden von Regeln zur guten wissenschaftlichen Praxis
-    (Welche Regeln gibt es, woran müssen sich Studierende halten?)
-
-* Zitation in Seminar- / Abschlussarbeiten
-    (Welche Regeln gibt es, woran müssen sich Studierende halten?)
-
-* Nachnutzung von Daten - Lizenzen
-    (Worauf muss bei der Verwendung von Daten geachtet werden, welche Lizenzen gibt es, was bedeuten sie?)
-
------
-
-## Zeitlicher Umfang
-
------
-
-> **Zeit ist immer ein limitierender Faktor! **
->
-> Wir müssen entscheiden, was wirklich nötig ist, um Lernziele in einer bestimmten Zeit zu erreichen, d.h. wir müssen
->
-> - Prioritäten setzen
-> - das Wesentliche aus den zu vermittelnden Inhalten herausfiltern.
-
------
-
-Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders wichtige und weniger wichtige Inhalte zu erhalten.
----
-
-<!-- markdownlint-capture -->
-
-<!-- markdownlint-disable MD033 -->
-
-<!-- style="width: 100%;background-color:lightblue;"-->
-> | muss | sollte | könnte |
-> | ------------------------------ | -------- | -------- |
-> | Absolut notwendig, um <br> das Thema zu verstehen. | Es wäre sinnvoll <br>, diese Aspekte anzusprechen. | Wenn genügend Zeit zur Verfügung steht, wäre es schön, diese Aspekte zu behandeln. |
-> | ... | ... | ... |
-
-<!-- markdownlint-restore -->
-
-<div style="page-break-after: always;"></div>
 
 
 ### Beispiele zur Anwendung von GWP
@@ -559,6 +581,10 @@ Runde 3: Tauschen Sie die Rollen. Beginnen Sie Ihren Dialog erneut. Emma (3) tri
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+https://www.youtube.com/watch?v=66oNv_DJuPc
+
+(NYU Health Sciences Library, A data management horror story by Karen Hanson, Alisa Surkis and Karen Yacobucci.)
+
 ------
 
 
@@ -580,6 +606,14 @@ onclick="alert('working');"
 
 
 # Kurz zusammengefasst
+
+-----
+
+> * Die Inhalte und der Umfang von GWP in der Lehre hängen auch mit den Lehrformaten zusammen.
+>
+> * Zeit ist ein limitierender Faktor, der in der Lehre eine wesentliche Rolle spielt.
+>
+> * Je nach Fachbereich und eigenem Fokus können die Inhalte eines GWP-Kurses stark variieren.
 
 -----
 
