@@ -425,26 +425,9 @@ Auch die CAU hat eigene Richtlinien zur Sicherung guter wissenschaftlicher Praxi
 
 Diskussion in Kleingruppen
 
-* welche Inhalte der CAU-Richtlinie können Sie für die Lehre einsetzen?
+* welche Inhalte der CAU-Richtlinie binden Sie bereits in die Lehre ein?
 
-* Welche Inhalte setzen Sie vielleicht bereits um und wie tun Sie das?
-
-********************************************************************************
-
-## Integration von Richtlinien in die Lehre
-
-Wie könnten Sie entsprechende Richtlinien in Ihre Lehre einbinden?
-
------
-
-{{1}}
-********************************************************************************
-
-> * Lassen Sie die Studierenden nach entsprechenden Richtlinien Ihrer Fachdisziplin suchen.
->
-> * Weisen Sie bei fachspezifischen Übungen und Aufgaben auf entsprechende Richtlinien hin.
->
-> * Nutzen Sie die Richtlinien als Ausgangspunkt einer Diskussion über die konkrete Umsetzung in Ihrer Fachdisziplin. 
+Diskutieren Sie gerne auch, wie Sie dies tun.
 
 ********************************************************************************
 
@@ -461,6 +444,30 @@ Konnten Sie eine oder mehrere Richtlinien finden? Sichern Sie sich den Link oder
 Hinweis: Nicht jede Fachdisziplin hat zwingend eine eigene Richtline oder einen eigenen Code. Manche orientieren sich an den Leitlinen der DFG, wiederum andere haben sehr umfassende eigene Codes. 
 
 -----
+
+## Integration von Richtlinien in die Lehre
+
+Die Richtlinien geben der guten wissenschaftlichen Praxis eine (zusätzliche) Legitimation von außen.
+
+-----
+
+{{1}}
+********************************************************************************
+
+Sie können Richtlinien beispielsweise nutzen, indem Sie:
+
+> * die Studierenden nach entsprechenden Richtlinien Ihrer Fachdisziplin suchen lassen.
+>
+> * bei fachspezifischen Übungen und Aufgaben auf entsprechende Richtlinien hinweisen.
+>
+> * die Richtlinien als Ausgangspunkt einer Diskussion über die konkrete Umsetzung in Ihrer Fachdisziplin nutzen.
+>
+> * die CAU-Richtlinen als Ausgangspunkt §4 (1) für Studierende nutzen.
+>
+> * die Studierenden auf §2 hinweisen.
+
+********************************************************************************
+
 
 ## GWP und Forschungsdatenmanagement
 
@@ -507,7 +514,7 @@ https://www.youtube.com/watch?v=NR164H5PDio (Path2Integrity, Alexander Gerber)
 {{1}}
 ****************
 
-Welche weiteren Gründe für gute wissenschaftliche Praxis sind Ihnen bekannt?
+Welche Gründe für gute wissenschaftliche Praxis sehen Sie als wichtig an in der Lehre?
 
 ****************
 
